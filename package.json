@@ -1,16 +1,19 @@
 {
-  "private": true,
+  "name": "jovespv-congres-22",
+  "version": "0.0.0",
   "scripts": {
-    "dev": "nuxi dev",
-    "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
-  },
-  "devDependencies": {
-    "nuxt3": "latest"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@compromis/blobby": "^1.0.5",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
     "sass": "^1.45.0",
-    "sass-loader": "10"
+    "sass-loader": "10",
+    "vite": "^2.7.2"
   }
 }
