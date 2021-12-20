@@ -272,10 +272,10 @@
   dependencies:
     mime "^3.0.0"
 
-"@compromis/blobby@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@compromis/blobby/-/blobby-1.0.4.tgz#ea95ca235f999b4f0033e12a2093aa4418003629"
-  integrity sha512-TBOF/OV7lWb2Nx/ObweQSthGZTkDE3ac+sf1Mw1uyUj5cIzDfA4hB0UKJpI8HPzAiErti8/lMc1IOrlz2xVLKg==
+"@compromis/blobby@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@compromis/blobby/-/blobby-1.0.5.tgz#8bb03d37d847dfe5ddbe4a3715b1318b1f486745"
+  integrity sha512-9f1zuIZLdDG1seR472YiwJE0Gxw3hLOVUmBM69Mf/jySbbIKigavM9e/ANNOhA/UtqJxV+cms+4zp78S+yMV/Q==
   dependencies:
     bootstrap "^5.1.3"
     vue "^3.0.0"
