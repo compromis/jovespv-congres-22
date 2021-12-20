@@ -22,11 +22,11 @@ import SerLogo from './components/SerLogo.vue'
           Ontinyent, la Vall d’Albaida
         </div>
       </div>
-      <div class="md-d-flex mt-5 mb-2">
-        <b-button href="https://forms.gle/ku6hSqgBPfRf3AiG6" target="_blank" size="lg" variant="primary" has-shadow outline class="me-3">
+      <div class="md-d-flex mt-5">
+        <b-button href="https://forms.gle/ku6hSqgBPfRf3AiG6" target="_blank" size="lg" variant="primary" has-shadow outline class="me-3 mb-2">
           Inscripció al Congrés
         </b-button>
-        <b-button href="https://esmenes.compromis.net/jovespv" target="_blank" size="lg" variant="primary" has-shadow outline>
+        <b-button href="https://esmenes.compromis.net/jovespv" target="_blank" size="lg" variant="primary" has-shadow outline class="mb-2">
           Esmenes
         </b-button>
       </div>
