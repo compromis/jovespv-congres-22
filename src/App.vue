@@ -25,7 +25,7 @@ import AvantLogo from './components/AvantLogo.vue'
         <a href="https://forms.gle/iwxYNbNdV9wp9qaD7" target="_blank" class="avant-button avant-blue me-3 mb-2">
           Inscripció al Congrés
         </a>
-        <a href="https://esmenes.compromis.net/jovespv" target="_blank" class="avant-button avant-red mb-2">
+        <a href="https://esmenes.compromis.net/jovespv-2024" target="_blank" class="avant-button avant-red mb-2">
           Esmenes i documents
         </a>
       </div>
