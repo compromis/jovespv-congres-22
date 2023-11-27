@@ -54,14 +54,14 @@ body, html {
   position: fixed;
   display: flex;
   align-items: center;
-  padding: .5rem 1rem;
+  padding: 1rem;
   top: 0;
   left: 0;
   right: 0;
 
   svg {
     height: 2rem;
-    width: fit-content;
+    width: auto;
   }
 }
 
