@@ -44,7 +44,7 @@ import AvantLogo from './components/AvantLogo.vue'
 @import './assets/scss/variables';
 
 body, html {
-  background: #231f20;
+  background: $black;
   color: #fff;
   font-family: "itc-avant-garde-gothic-pro", sans-serif;
   font-weight: 300;
@@ -58,6 +58,7 @@ body, html {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 100;
 
   svg {
     height: 2rem;
@@ -105,7 +106,7 @@ body, html {
 
 @media (max-width: 1050px) {
   .app-nav {
-    position: static;
+    background-color: $black;
   }
 }
 
