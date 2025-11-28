@@ -8,24 +8,23 @@ import AvantLogo from './components/AvantLogo.vue'
   <div>
     <nav class="app-nav">
       <a href="https://jovespv.org" title="Joves PV"><jovespv-logo /></a>
-      <div class="ms-auto text-lg">V Congrés de Joves PV</div>
+      <div class="ms-auto text-lg">VI Congrés de Joves PV</div>
     </nav>
     <div class="content">
       <div class="text-3xl">
-        <avant-logo class="avant" />
-        <span class="visually-hidden">Avant</span>
+        <h1>VI Congrés de Joves PV</h1>
         <div class="mt-5 lh-sm opacity-50 info">
-          10 de febrer de 2024
+          21 de febrer de 2026
         </div>
         <div class="lh-sm opacity-50 info">
-          Vilanova d'Alcolea
+          Àgora, Alcoi
         </div>
       </div>
       <div class="md-d-flex mt-5">
-        <a href="https://forms.gle/iwxYNbNdV9wp9qaD7" target="_blank" class="avant-button avant-blue me-3 mb-2">
+        <!--<a href="https://forms.gle/iwxYNbNdV9wp9qaD7" target="_blank" class="avant-button avant-blue me-3 mb-2">
           Inscripció al Congrés
-        </a>
-        <a href="https://esmenes.compromis.net/jovespv-2024" target="_blank" class="avant-button avant-red mb-2">
+        </a>-->
+        <a href="https://esmenes.compromis.net/jovespv-2026" target="_blank" class="avant-button avant-orange mb-2">
           Esmenes i documents
         </a>
       </div>
@@ -44,8 +43,8 @@ import AvantLogo from './components/AvantLogo.vue'
 @import './assets/scss/variables';
 
 body, html {
-  background: $black;
-  color: #fff;
+  background: $white;
+  color: $black;
   font-family: "itc-avant-garde-gothic-pro", sans-serif;
   font-weight: 300;
 }
@@ -83,6 +82,10 @@ body, html {
 
 .avant-blue {
   --color: #{$blue};
+}
+
+.avant-orange {
+  --color: #{$orange};
 }
 
 .avant-red {

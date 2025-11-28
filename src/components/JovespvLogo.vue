@@ -10,6 +10,6 @@
 }
 
 .cls-2 {
-  fill:#fff;
+  fill:#333;
 }
 </style>
