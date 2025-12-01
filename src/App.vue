@@ -29,11 +29,13 @@ import AvantLogo from './components/AvantLogo.vue'
         </a>
       </div>
       <div class="text text-xl mt-4">
-        <p>La corrupció i el feixisme han tornat a apoderar-se de les institucions valencianes. Això ens obliga a fer front a molts reptes als i les joves del País Valencià.</p>
-        <p>Ara ens trobem davant del moment de celebrar un nou Congrés; obert a totes les persones joves, siguen militants del nostre partit o no. I això t’inclou també a tu. Com a organització, encetem el nostre període de reflexió més significatiu: una oportunitat per replantejar-nos, per reforçar-nos i decidir què volem ser en aquests temps tan desafiants que ens esperen.</p>
+        <p>Després dels canvis que ha viscut el País Valencià els últims dos anys, ara ens trobem davant del moment de celebrar un nou Congrés; obert a totes les persones joves, siguen militants del nostre partit o no. I això t’inclou també a tu. </p>
+
+        <p>Com a organització, encetem el nostre període de reflexió més significatiu: una oportunitat per replantejar-nos, per reforçar-nos i decidir què volem ser en aquests temps tan desafiants que ens esperen.</p>
+
         <p>És una oportunitat per compartir idees, debatre sobre les qüestions més rellevants i prendre decisions que marcaran el nostre camí. Siga quina siga la teua relació amb Joves PV, la teua presència i participació són importants per construir un futur conjunt que reflectisca les nostres aspiracions i valors compartits, i que done esperança a les futures generacions de valencianes i valencians.</p>
-        <p>Vos convidem a participar en aquest esdeveniment que serà clau per definir els rumbs de Joves PV i del País Valencià d’ara en avant. Ens veiem al Congrés el 10 de febrer a Vilanova d’Alcolea!</p>
-      </div>
+
+        <p>Vos convidem a participar en aquest esdeveniment que serà clau per definir els rumbs de Joves PV i del País Valencià. Ens veiem al VI Congrés de Joves PV el 21 de febrer a Alcoi!      </p>
     </div>
   </div>
 </template>
