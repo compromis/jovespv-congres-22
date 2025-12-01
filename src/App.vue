@@ -37,6 +37,7 @@ import AvantLogo from './components/AvantLogo.vue'
 
         <p>Vos convidem a participar en aquest esdeveniment que serà clau per definir els rumbs de Joves PV i del País Valencià. Ens veiem al VI Congrés de Joves PV el 21 de febrer a Alcoi!      </p>
     </div>
+    </div>
   </div>
 </template>
 
