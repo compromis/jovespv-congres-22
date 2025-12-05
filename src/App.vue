@@ -8,7 +8,7 @@ import AvantLogo from './components/AvantLogo.vue'
   <div>
     <nav class="app-nav">
       <a href="https://jovespv.org" title="Joves PV"><jovespv-logo /></a>
-      <div class="ms-auto text-lg">VI Congrés de Joves PV</div>
+      <div class="ms-auto text-lg font-headline">VI Congrés de Joves PV</div>
     </nav>
     <div class="content">
       <div class="text-3xl">
@@ -45,11 +45,25 @@ import AvantLogo from './components/AvantLogo.vue'
 @import '@compromis/blobby/scss/blobby.scss';
 @import './assets/scss/variables';
 
+@font-face {
+  font-family: 'Formula Condensed';
+  src: url('./assets/fonts/FormulaCondensed-Bold.woff2') format('woff2'),
+      url('./assets/fonts/FormulaCondensed-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
 body, html {
   background: $white;
   color: $black;
   font-family: "itc-avant-garde-gothic-pro", sans-serif;
   font-weight: 300;
+}
+
+.font-headline {
+  font-family: 'Formula Condensed', sans-serif;
+  font-weight: bold;
 }
 
 .app-nav {
